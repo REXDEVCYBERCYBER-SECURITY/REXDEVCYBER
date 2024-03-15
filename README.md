@@ -17,21 +17,25 @@ As a result, if you would like to support this project financially you are
 encouraged to donate to one of the many groups that makes the internet a place
 amenable to projects such as this one.
 
-or for a direct bitcoin address, consider donating to the
+or for a direct ethereum address, consider donating to the
 
+at 0xD86012ab052706C2929068D4176ec2D525Db687a
 
+Online Version https://rexdevcyber.web.app
 
-##Online Version https://rexdevcyber.web.app
-
-##Standalone offline version
+##tandalone offline version
 
 ###Usage
+
+
 ##Making changes
+
 Please do not make modifications to rexdevcyber.web.app/index.html, since they will be overwritten by rexdevcyber.py.
 
  Make changes in src/*.
 
 Changes are applied during release using the command python rexdevcyber.py, so please do not commit changes to rexdevcyber.web.app/index.html
+
 
 ##Tests
 
