@@ -1,3 +1,5 @@
+<H1>REXDEVCYBER STORE </H1>
+[https://rexdevcyber.web.app]
 
 <H1>Security test Advanced system vulnerability exploits, connectivity and protection</H1>
 
@@ -41,9 +43,6 @@ Regularly review and update security testing methodologies to adapt to evolving 
 Conduct periodic security assessments to validate the effectiveness of security controls and identify new vulnerabilities.
 Foster a culture of security awareness and encourage collaboration between security teams and other stakeholders to mitigate risks effectively.
 By following these steps, you can perform advanced security testing to uncover vulnerabilities, assess connectivity risks, and strengthen protection measures to safeguard your organization's assets and data.
-
-
-<H1>REXDEVCYBER STORE </H1>
 
 
 <H2>Connection system security</H2>
