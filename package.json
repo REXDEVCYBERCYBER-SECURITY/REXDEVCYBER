@@ -2,6 +2,7 @@
   "dependencies": {
     "@quicknode/sdk": "^2.1.3",
     "ethers": "^6.11.1",
+    "ngrok": "^5.0.0-beta.2",
     "web3": "^4.6.0"
   }
 }
