@@ -1,4 +1,19 @@
-<H1>REXDEVCYBER STORE [https://rexdevcyber.web.app] </H1>
+<H1>REXDEVCYBER STORE </H1>
+
+A network for storing online account information
+which may be a fiber network that stores many other types of statistics and traffic database block.
+
+Our mission is to make it easier for everyone to create beneficial learning, guidance and development resources.
+REXDEVCYBER is built on the idea that templates are Quality and practical should be available to everyone. Use our open source products or support us by purchasing one of our premium products or services.
+
+Our founding
+In the network for online accounts It is a fiber network archive that stores statistics and blogs. This includes many other types of interests with access from every corner, all over the world, to connect. Finding vulnerabilities and investigating them is easier.
+
+Growth & beyond
+Check out and greatly update the area for reliable, direct, important news every day. Gather information from every part of the investigation in order to use important information for users to be safe and reduce information risk. Dangerous in business, personal and education
+
+#website https://rexdevcyber.web.app
+
 
 <H1>Security test Advanced system vulnerability exploits, connectivity and protection</H1>
 
