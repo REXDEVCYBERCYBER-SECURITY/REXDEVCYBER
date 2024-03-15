@@ -1,6 +1,6 @@
 <H1>REXDEVCYBER STORE </H1>..
 
-![Uploading logorexdevcyber.png…]()
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.][logorexdevcyber.png](https://postimg.cc/WFDH34cW)
 
 
 A network for storing online account information
