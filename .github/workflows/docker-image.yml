@@ -10,7 +10,7 @@ jobs:
 
   build:
 
-    runs-on: fluk2409/rexdevcyber
+    runs-on:  ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
