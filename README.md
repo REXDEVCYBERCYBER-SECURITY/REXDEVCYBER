@@ -25,13 +25,15 @@ or for a direct bitcoin address, consider donating to the
 
 ##Standalone offline version
 
-Usage
-Making changes
+###Usage
+##Making changes
 Please do not make modifications to rexdevcyber.web.app/index.html, since they will be overwritten by rexdevcyber.py.
 
-Make changes in src/*.
+ Make changes in src/*.
 
 Changes are applied during release using the command python rexdevcyber.py, so please do not commit changes to rexdevcyber.web.app/index.html
 
-Tests
-License
+##Tests
+
+
+#License
