@@ -1,0 +1,4 @@
+curl  https://{your-endpoint-name}.quiknode.pro/{your-token}/ \
+  -X POST \
+  -H "Content-Type: application/json" \
+  --data '{"method":"eth_blockNumber","params":[],"id":1,"jsonrpc":"2.0"}'
