@@ -35,7 +35,7 @@ jobs:
           context: ./
           file: ./docker_push
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/ubuntu:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/ fluk2409/rexdev
 
       - name: Image digest
         run: echo ${{ steps.docker_build.outputs.digest }}
