@@ -1,0 +1,10 @@
+const Web3 = require('web3');
+const web3 = new Web3(
+'https://https://quaint-special-thunder.btc.quiknode.pro/6f71c8c5c644f72a9a4926b51ef8d3d739051699/.quiknode.pro/{1db1ab39f9b501b72cabe37a363e06a78d6727f5}/'
+);
+web3.eth.getBlock('latest').then(
+answer => console.log(answer)
+);
+web3.eth.getBlockNumber().then(
+blockNum => console.log(blockNum)
+);
